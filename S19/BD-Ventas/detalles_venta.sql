@@ -1,0 +1,121 @@
+
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (1,63,44,41,32273),
+  (2,65,23,80,4449),
+  (3,96,35,116,39543),
+  (4,61,47,65,358),
+  (5,79,67,111,16101),
+  (6,93,14,65,32797),
+  (7,85,39,54,11735),
+  (8,56,50,105,36068),
+  (9,12,9,11,35731),
+  (10,27,67,41,12908);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (11,83,4,61,14438),
+  (12,53,83,116,16397),
+  (13,70,92,100,38898),
+  (14,81,9,18,6988),
+  (15,86,52,83,26330),
+  (16,35,100,20,10160),
+  (17,5,21,64,15716),
+  (18,9,68,79,34786),
+  (19,43,46,65,7119),
+  (20,82,29,108,37836);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (21,34,96,58,20823),
+  (22,34,29,56,4852),
+  (23,1,12,33,31866),
+  (24,2,44,24,21666),
+  (25,44,32,56,34740),
+  (26,33,74,75,29861),
+  (27,85,24,107,34452),
+  (28,7,74,89,5414),
+  (29,17,6,92,8861),
+  (30,71,13,35,29597);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (31,19,67,45,28757),
+  (32,66,95,39,3402),
+  (33,5,76,27,35999),
+  (34,50,6,53,26785),
+  (35,54,64,29,20477),
+  (36,27,95,87,15121),
+  (37,24,78,100,38996),
+  (38,95,98,58,39538),
+  (39,37,64,15,4913),
+  (40,27,28,78,4400);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (41,74,17,11,12871),
+  (42,76,52,116,39914),
+  (43,70,100,92,2753),
+  (44,91,20,103,17923),
+  (45,40,48,29,27656),
+  (46,42,3,59,25441),
+  (47,76,26,94,29364),
+  (48,9,21,42,21473),
+  (49,39,51,21,31084),
+  (50,57,24,120,39387);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (51,44,50,86,26762),
+  (52,83,30,92,9445),
+  (53,60,78,42,9612),
+  (54,57,47,97,36589),
+  (55,33,30,55,10215),
+  (56,75,91,107,11965),
+  (57,98,90,18,34699),
+  (58,39,78,19,22711),
+  (59,43,72,64,8366),
+  (60,46,25,85,39557);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (61,27,71,90,21458),
+  (62,34,9,104,29673),
+  (63,48,89,61,27771),
+  (64,4,65,91,31009),
+  (65,93,5,86,9945),
+  (66,3,63,114,1272),
+  (67,11,36,62,13876),
+  (68,64,42,16,13913),
+  (69,15,7,24,32824),
+  (70,43,64,86,31832);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (71,29,76,83,32767),
+  (72,89,95,65,17179),
+  (73,83,83,111,35435),
+  (74,45,43,66,11737),
+  (75,22,22,76,29758),
+  (76,13,13,58,11888),
+  (77,93,19,79,6085),
+  (78,9,64,113,28890),
+  (79,88,91,54,27289),
+  (80,99,79,91,14017);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (81,23,82,107,4830),
+  (82,56,89,83,16037),
+  (83,63,18,106,7732),
+  (84,11,64,28,4623),
+  (85,75,14,106,7031),
+  (86,4,95,77,24981),
+  (87,12,74,91,34401),
+  (88,70,85,86,37118),
+  (89,8,43,55,25132),
+  (90,72,63,113,9321);
+INSERT INTO `detalles_venta` (`detalles_venta_id`,`fk_factura_venta_id`,`fk_producto_id`,`detalles_venta_cantidad`,`detalles_venta_precio_venta`)
+VALUES
+  (91,37,97,103,25190),
+  (92,8,23,86,27072),
+  (93,8,27,34,6769),
+  (94,74,88,117,23251),
+  (95,13,72,55,28915),
+  (96,54,52,26,39285),
+  (97,66,89,93,27339),
+  (98,70,92,85,5435),
+  (99,66,60,57,17370),
+  (100,25,26,59,20576);
